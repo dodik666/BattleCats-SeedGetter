@@ -1,7 +1,2 @@
-.vs/Battle Cats save editor/v16
-/Battle Cats save editor/Battle Cats save editor/obj/Debug
-Battle Cats save editor/.vs/Battle Cats save editor/v16/.suo
-.vscode/launch.json
-/Battle Cats save editor/Battle Cats save editor/Battle Cats save editor.csproj.user
-/Updater/Updater/obj/Debug
-/Battle Cats save editor/Battle Cats save editor/editor.exe
+bin
+obj
